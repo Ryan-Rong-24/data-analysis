@@ -21,3 +21,14 @@ female | 0-18 | 11 | 14 | 43
 | | 18-80 | 74 | 60 | 59
 male | 0-18 | 5 | 15 | 51
 | | 18-80 | 96 | 84 | 202
+
+<br>
+<br>
+
+A box plot of the age of passengers onboard the Titanic according to their class:
+<br>
+![Box Plot](./images/fig.png)
+
+A histogram of the age of passengers onboard the Titanic according to their class:
+<br>
+![Histogram](./images/fig2.png)
